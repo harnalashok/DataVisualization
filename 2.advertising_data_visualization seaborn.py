@@ -1,4 +1,6 @@
 # Last amended: 10th Feb 2021
+# Data source: Kaggle: https://www.kaggle.com/fayomi/advertising
+#
 # Spyder note: Use F9 in Spyder to execute a line and advance
 #
 # objectives:
