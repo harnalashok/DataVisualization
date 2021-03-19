@@ -21,3 +21,10 @@
 - - Parallel coordinates plots
 - - Radviz plots
 - - Andrews curves
+
+--------------
+**File: andrews_curve explanation.py**<br>
+*Objectives:*<br>
+- Explanation of Andrews plots
+- Simple experiment
+
