@@ -8,6 +8,7 @@
 ------------
 
 **File: 2.advertising_data_visualization seaborn.py**<br>
+**File: simpleVisualization--Class.ipynb**<br>
 *Objectives:*<br>
 - Discover relationships and existence of pattern in data
 - Feature Engineering for categorical variables
