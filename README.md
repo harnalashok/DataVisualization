@@ -29,3 +29,10 @@
 - Explanation of Andrews plots
 - Simple experiment
 
+--------------
+**File: central_limit_theorem_demo.py**<br>
+*Objectives:*<br>
+- Simple demo of Central limit theorem
+- Students may assume any discrete prob distribution
+--------------
+
